@@ -64,7 +64,11 @@ Certifications & events:
 
 <!-- Manual badges used above replace the automatic top-langs card to avoid misleading percentages. -->
 
+
+
 ---
+
+
 
 #### 🔭 Currently
 - Kernel module experiments & sandboxing ideas  
@@ -82,7 +86,7 @@ Certifications & events:
 
 #### 📫 Contact & Links
 - Email: karim.masmoudi.pro@gmail.com  
-- Website: [https://your-site.example.com](https://karimmasmoudi.weebly.com/)  
+- Website: [(https://karimmasmoudi.weebly.com/)](https://karimmasmoudi.weebly.com/)  
 - Twitter / Mastodon: @karim0masmoudi  
 - LinkedIn: https://linkedin.com/in/yourprofile
 
