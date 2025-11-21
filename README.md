@@ -22,11 +22,11 @@ Systems & security tinkerer, kernel explorer, ethical hacker, and creative maker
 ---
 
 ### Languages & Skills
-- C — kernel & low‑level systems programming  
-- Java — applications & tooling  
-- Python — scripting, automation, AI tooling  
-- Linux shell scripting — Bash, utilities & automation  
-- Ethical hacking toolset — Nmap, Metasploit, Burp Suite, Wireshark, other Kali tools
+- C - kernel & low‑level systems programming  
+- Java - applications & tooling  
+- Python - scripting, automation, AI tooling  
+- Linux shell scripting - Bash, utilities & automation  
+- Ethical hacking toolset - Nmap, Metasploit, Burp Suite, Wireshark, other Kali tools
 
 **Most Used Languages (% approximate from GitHub stats):**  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kernel-Hunter&layout=compact&langs_count=6)](https://github.com/Kernel-Hunter)
@@ -69,9 +69,9 @@ Systems & security tinkerer, kernel explorer, ethical hacker, and creative maker
 ---
 
 ### 📌 Pinned Projects
-- [kernel-experiments](https://github.com/Kernel-Hunter/kernel-experiments) — OS/kernel prototypes & writeups  
-- [security-tools](https://github.com/Kernel-Hunter/security-tools) — pentest automation & Kali scripts  
-- [led-sync](https://github.com/Kernel-Hunter/led-sync) — LED controller & synchronized show patterns
+- [kernel-experiments](https://github.com/Kernel-Hunter/kernel-experiments) - OS/kernel prototypes & writeups  
+- [security-tools](https://github.com/Kernel-Hunter/security-tools) - pentest automation & Kali scripts  
+- [led-sync](https://github.com/Kernel-Hunter/led-sync) - LED controller & synchronized show patterns
 
 ---
 
@@ -79,6 +79,6 @@ Systems & security tinkerer, kernel explorer, ethical hacker, and creative maker
 - Email: karim.masmoudi.pro@gmail.com  
 - Website: [karimmasmoudi.weebly.com](https://karimmasmoudi.weebly.com/)  
 - Twitter / Mastodon: @karim0masmoudi  
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- LinkedIn: [under construction](https://linkedin.com/in/yourprofile)
 
 If you like low‑level systems, security tooling, or creative hardware + music mashups — star a repo and say hi!
