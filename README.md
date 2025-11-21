@@ -35,19 +35,15 @@ Systems & security tinkerer, kernel explorer, ethical hacker, and creative maker
 <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell"/> 
 <img src="https://img.shields.io/badge/Ethical--Hacking-cc0000?style=for-the-badge&logo=metasploit&logoColor=white" alt="Ethical Hacking"/>
 
-**Tech icons:**  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="34" height="34" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="34" height="34" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="34" height="34" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="34" height="34" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="34" height="34" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="34" height="34" />
+**Animated skill badges:**  
+![AI](https://img.shields.io/badge/AI-Exploring-orange?style=for-the-badge&logo=python&logoColor=white&animation=fade)  
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Active-red?style=for-the-badge&logo=metasploit&logoColor=white&animation=fade)  
 
 ---
 
 ### Certifications & Events
-[![Harvard Cybersecurity](https://img.shields.io/badge/Certificate-Harvard%20Cybersecurity-blue?logo=harvard)](replace-with-cert-link)  
-[![edX Game Dev](https://img.shields.io/badge/Certificate-edX%20Game%20Dev-red?logo=edx)](replace-with-cert-link)
+[![Harvard Cybersecurity](https://img.shields.io/badge/Certificate-Harvard%20Cybersecurity-blue?logo=harvard&style=for-the-badge&animation=fade)](replace-with-cert-link)  
+[![edX Game Dev](https://img.shields.io/badge/Certificate-edX%20Game%20Dev-red?logo=edx&style=for-the-badge&animation=fade)](replace-with-cert-link)
 
 ---
 
@@ -61,7 +57,8 @@ Systems & security tinkerer, kernel explorer, ethical hacker, and creative maker
 ### 🔭 Currently
 - Kernel module experiments & sandboxing ideas  
 - Building AI tooling for security automation  
-- AR/VR game mechanics & LED‑synced installations
+- AR/VR game mechanics & LED‑synced installations  
+![coding animation](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
 ---
 
