@@ -2,7 +2,11 @@
 
 # I'm Karim (Kernel‑Hunter) 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=Karim+Masmoudi;Kernel‑Hunter;Ethical+Hacker;Kernel+Explorer)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=Karim+Masmoudi;Kernel‑Hunter;Ethical+Hacker;Kernel+Explorer" alt="Typing SVG">
+  </a>
+</p>
 
 </div>
 
