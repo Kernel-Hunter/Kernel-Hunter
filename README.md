@@ -1,11 +1,12 @@
 <div align="center">
 
-<!-- Typing animation SVG (using readme-typing-svg) -->
+# I'm Karim (Kernel‑Hunter) 👋  
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=Karim+Masmoudi;Kernel‑Hunter;Ethical+Hacker;Kernel+Explorer)](https://git.io/typing-svg)
 
 </div>
 
-<!-- Matrix-style animated header (you need to host or use an existing animated SVG or GIF) -->
+<!-- Matrix-style animated header -->
 <p align="center">
   <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Matrix effect" width="600"/>
 </p>
@@ -37,8 +38,7 @@ Systems & security tinkerer, kernel explorer, ethical hacker, and creative maker
 ---
 
 ### 🏆 Achievements  
-[![trophy](https://github‑profile‑trophy.vercel.app/?username=Kernel‑Hunter&theme=gruvbox&column=4&no-frame=true)](https://github.com/Kernel‑Hunter)  
-<img src="https://github‑readme‑stats.vercel.app/api?username=Kernel‑Hunter&show_icons=true&count_private=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=Kernel-Hunter&show_icons=true&count_private=true" height="160" />
 
 ---
 
@@ -63,5 +63,4 @@ Systems & security tinkerer, kernel explorer, ethical hacker, and creative maker
 - Twitter / Mastodon: @karim0masmoudi  
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
 
----
-
+If you like low‑level systems, security tooling, or creative hardware + music mashups — star a repo and say hi!
