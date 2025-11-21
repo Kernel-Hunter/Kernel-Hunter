@@ -24,11 +24,11 @@ Systems & security tinkerer, kernel explorer, ethical hacker, and creative maker
 
 <h3>Languages & Skills</h3>
 <p>
-- C — kernel & low‑level systems programming<br/>
-- Java — applications & tooling<br/>
-- Python — scripting, automation, AI tooling<br/>
-- Linux shell scripting — Bash, utilities & automation<br/>
-- Ethical hacking toolset — Nmap, Metasploit, Burp Suite, Wireshark, other Kali tools
+- C - kernel & low‑level systems programming<br/>
+- Java - applications & tooling<br/>
+- Python - scripting, automation, AI tooling<br/>
+- Linux shell scripting - Bash, utilities & automation<br/>
+- Ethical hacking toolset - Nmap, Metasploit, Burp Suite, Wireshark, other Kali tools
 </p>
 
 <h3>Most Used Languages (% approximate from GitHub stats)</h3>
@@ -69,7 +69,7 @@ Systems & security tinkerer, kernel explorer, ethical hacker, and creative maker
 
 <h3>🏆 Achievements</h3>
 <p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kernel-Hunter&theme=gruvbox&column=4&no-frame=true)](https://github.com/Kernel-Hunter)<br/>
+<br/>
 <img src="https://github-readme-stats.vercel.app/api?username=Kernel-Hunter&show_icons=true&count_private=true" height="170"/>
 </p>
 
@@ -86,9 +86,9 @@ Systems & security tinkerer, kernel explorer, ethical hacker, and creative maker
 
 <h3>📌 Pinned Projects</h3>
 <p>
-- <a href="https://github.com/Kernel-Hunter/kernel-experiments">kernel-experiments</a> — OS/kernel prototypes & writeups<br/>
-- <a href="https://github.com/Kernel-Hunter/security-tools">security-tools</a> — pentest automation & Kali scripts<br/>
-- <a href="https://github.com/Kernel-Hunter/led-sync">led-sync</a> — LED controller & synchronized show patterns
+- <a href="https://github.com/Kernel-Hunter/kernel-experiments">kernel-experiments</a> - OS/kernel prototypes & writeups<br/>
+- <a href="https://github.com/Kernel-Hunter/security-tools">security-tools</a> - pentest automation & Kali scripts<br/>
+- <a href="https://github.com/Kernel-Hunter/led-sync">led-sync</a> - LED controller & synchronized show patterns
 </p>
 
 <hr/>
