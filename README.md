@@ -8,7 +8,7 @@
 <tr>
 <td style="width: 32%; vertical-align: top;">
 
-***Karim Masmoudi — 20, software engineering & AI enthusiast from Tunisia.***  
+***Karim Masmoudi, 21, software engineering & AI enthusiast from Tunisia.***  
 Systems & security tinkerer, kernel explorer, ethical hacker, and creative maker.
 
 ---
@@ -81,9 +81,9 @@ Certifications & events:
 ---
 
 #### 📫 Contact & Links
-- Email: replace-with-your-email@example.com  
-- Website: https://your-site.example.com  
-- Twitter / Mastodon: @yourhandle  
+- Email: karim.masmoudi.pro@gmail.com  
+- Website: [https://your-site.example.com](https://karimmasmoudi.weebly.com/)  
+- Twitter / Mastodon: @karim0masmoudi  
 - LinkedIn: https://linkedin.com/in/yourprofile
 
 If you like low‑level systems, security tooling, or creative hardware + music mashups — star a repo and say hi!
