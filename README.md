@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hey there — I'm Karim (Kernel‑Hunter) 👋
+# I'm Karim (Kernel‑Hunter) 👋
 
 </div>
 
