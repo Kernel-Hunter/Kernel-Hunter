@@ -96,4 +96,4 @@ Systems & security tinkerer, kernel explorer, ethical hacker, and creative maker
 <h3>📫 Contact & Links</h3>
 <p>
 - Email: karim.masmoudi.pro@gmail.com<br/>
-- Website: <a href="https://karimmasmoudi.weebly.com/">karimmasmoudi.weebly.com</a><br
+- Website: <a href="https://kernelportfolio.vercel.app/">https://kernelportfolio.vercel.app/</a><br
