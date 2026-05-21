@@ -10,25 +10,35 @@
 
 <div align="center">
 
-<img src="https://github.com/Kernel-Hunter/Kernel-Hunter/blob/main/assets/matrix.gif?raw=1" width="760" alt="Matrix" />
+<!-- Matrix rain + scanline (local assets). If an asset is missing, GitHub will show a broken image until you add it. -->
+<img src="https://github.com/Kernel-Hunter/Kernel-Hunter/blob/main/assets/matrix-rain.gif?raw=1" width="760" alt="Matrix rain" />
+<br/>
+<img src="https://github.com/Kernel-Hunter/Kernel-Hunter/blob/main/assets/scanlines.gif?raw=1" width="760" alt="Terminal scanlines" />
 
 </div>
 
 ---
 
+<div align="center">
+
 ## About
+
 I’m **Karim Masmoudi (21)** — a software engineering & AI enthusiast from **Tunisia**.
 I enjoy **low-level systems**, **kernel experimentation**, and building **security automation**.
 
-- **Cybersecurity:** pentesting, security analysis, threat modeling
-- **Linux & kernel:** modules, memory, isolation/sandboxing
-- **Automation:** Python tooling, scripting, CI helpers
-- **Projects:** embedded/hardware tinkering + creative builds
+**Focus:**
+- Cybersecurity: pentesting, security analysis, threat modeling
+- Linux & kernel: modules, memory, isolation/sandboxing
+- Automation: Python tooling, scripting, CI helpers
+- Projects: embedded/hardware tinkering + creative builds
+
+</div>
 
 ---
 
-## Tech Stack
 <div align="center">
+
+## Tech Stack
 
 **Languages**
 
@@ -51,15 +61,14 @@ I enjoy **low-level systems**, **kernel experimentation**, and building **securi
 
 ---
 
-## Stats
 <div align="center">
+
+## Stats
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kernel-Hunter&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="GitHub stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kernel-Hunter&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8" alt="Top languages" />
 
-</div>
-
-<div align="center">
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=Kernel-Hunter&theme=chartreuse-dark&hide_border=true" alt="GitHub streak" />
 
@@ -67,30 +76,59 @@ I enjoy **low-level systems**, **kernel experimentation**, and building **securi
 
 ---
 
-## 📌 Featured Projects
-> (Auto-updated to real repos — no placeholders)
+<div align="center">
 
-- **kernel-experiments** — experimental kernel modules & OS prototypes
-  - https://github.com/Kernel-Hunter/kernel-experiments
-- **smart-vehicle-rental-system** — smart multi-vehicle rental web application
-  - https://github.com/Kernel-Hunter/smart-vehicle-rental-system
-- **kernel-portfolio** — personal portfolio
-  - https://github.com/Kernel-Hunter/kernel-portfolio
-- **Library-Management-System** — Java Swing + CLI library system backed by MySQL
-  - https://github.com/Kernel-Hunter/Library-Management-System
+## 📌 Featured Projects
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Kernel-Hunter/kernel-experiments"><b>kernel-experiments</b></a><br/>
+      <sub>Experimental kernel modules & OS prototypes</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Kernel-Hunter/smart-vehicle-rental-system"><b>smart-vehicle-rental-system</b></a><br/>
+      <sub>Smart multi-vehicle rental web application</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Kernel-Hunter/Task-Management-Application"><b>Task-Management-Application</b></a><br/>
+      <sub>Stacks/Queues task manager with undo + stats</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Kernel-Hunter/Library-Management-System"><b>Library-Management-System</b></a><br/>
+      <sub>Java Swing + CLI + MySQL library system</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
+
+<div align="center">
 
 ## Contact
-- Email: **karim.masmoudi.pro@gmail.com**
-- Website: https://karimmasmoudi.vercel.app/
+
+**Email:** karim.masmoudi.pro@gmail.com  
+**Website:** https://karimmasmoudi.vercel.app/
+
+</div>
 
 ---
+
+<div align="center">
 
 <details>
 <summary><b>“Hacker style” extras</b></summary>
 
-- Animated banner: `assets/matrix.gif` (stored in this repo)
-- Neon/terminal look: `chartreuse-dark` theme across widgets
+Local animated assets used:
+- `assets/matrix-rain.gif`
+- `assets/scanlines.gif`
+
+If you want, I can also add a terminal-style "whoami" block + a snake contributions animation.
 
 </details>
+
+</div>
