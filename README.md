@@ -56,13 +56,14 @@ I enjoy **low-level systems**, **kernel experimentation**, and building **securi
 
 ## Stats
 
-<!-- Some stat-card providers wrap images in links with visible labels in certain clients.
-     Using pure Markdown image syntax avoids the extra linked label text. -->
+<!-- Guaranteed no visible labels: keep alt text empty -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kernel-Hunter&show_icons=true&theme=chartreuse-dark&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kernel-Hunter&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kernel-Hunter&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kernel-Hunter&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8" alt="" />
 
-![GitHub streak](https://streak-stats.demolab.com?user=Kernel-Hunter&theme=chartreuse-dark&hide_border=true)
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Kernel-Hunter&theme=chartreuse-dark&hide_border=true" alt="" />
 
 </div>
 
