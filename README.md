@@ -1,99 +1,96 @@
 <div align="center">
 
-<h1>I'm Karim (Kernel‑Hunter) 👋</h1>
+# Karim Masmoudi · **Kernel‑Hunter**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&center=true&lines=Karim+Masmoudi;Kernel-Hunter;Ethical+Hacker;Kernel+Explorer)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00FF41&center=true&vCenter=true&width=520&lines=Karim+Masmoudi+%7C+Kernel-Hunter;Ethical+Hacker+%E2%80%A2+Kernel+Explorer;Security+Automation+%E2%80%A2+Low-level+Systems" alt="Typing SVG" />
+</a>
 
-<hr/>
+</div>
 
-<h3>About Me</h3>
-<p>
-<b>Karim Masmoudi, 21, software engineering & AI enthusiast from Tunisia.</b><br/>
-Systems & security tinkerer, kernel explorer, ethical hacker, and creative maker.
-</p>
+<div align="center">
 
-<p>
-- Cybersecurity, penetration testing & security analysis (Kali toolset, risk management)<br/>
-- Advanced Linux & kernel experimentation<br/>
-- AI‑driven software engineering, AR/VR game systems<br/>
-- Embedded & hardware projects: LED syncs, smart automation, hydroponics<br/>
-- Music: qanun & percussion
-</p>
+<img src="https://github.com/Kernel-Hunter/Kernel-Hunter/blob/main/assets/matrix.gif?raw=1" width="760" alt="Matrix" />
 
-<hr/>
+</div>
 
-<h3>Languages & Skills</h3>
-<p>
-- C - kernel & low‑level systems programming<br/>
-- Java - applications & tooling<br/>
-- Python - scripting, automation, AI tooling<br/>
-- Linux shell scripting - Bash, utilities & automation<br/>
-- Ethical hacking toolset - Nmap, Metasploit, Burp Suite, Wireshark, other Kali tools
-</p>
+---
 
-<h3>Most Used Languages (% approximate from GitHub stats)</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kernel-Hunter&layout=compact&langs_count=6" alt="Top Languages">
-</p>
+## About
+I’m **Karim Masmoudi (21)** — a software engineering & AI enthusiast from **Tunisia**.
+I enjoy **low-level systems**, **kernel experimentation**, and building **security automation**.
 
-<p><b>Language badges:</b><br/>
-<img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white" alt="C"/> 
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> 
-<img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell"/> 
-<img src="https://img.shields.io/badge/Ethical--Hacking-cc0000?style=for-the-badge&logo=metasploit&logoColor=white" alt="Ethical Hacking"/>
-</p>
+- **Cybersecurity:** pentesting, security analysis, threat modeling
+- **Linux & kernel:** modules, memory, isolation/sandboxing
+- **Automation:** Python tooling, scripting, CI helpers
+- **Projects:** embedded/hardware tinkering + creative builds
 
-<p><b>Tech icons:</b><br/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="34" height="34" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="34" height="34" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="34" height="34" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="34" height="34" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="34" height="34" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="34" height="34" />
-</p>
+---
 
-<hr/>
+## Tech Stack
+<div align="center">
 
-<h3>Certifications & Events</h3>
-<p align="center">
-  <a href="replace-with-cert-link">
-    <img src="https://img.shields.io/badge/Certificate-Harvard%20Cybersecurity-blue?logo=harvard" alt="Harvard Cybersecurity">
-  </a>
-  <a href="replace-with-cert-link">
-    <img src="https://img.shields.io/badge/Certificate-edX%20Game%20Dev-red?logo=edx" alt="edX Game Dev">
-  </a>
-</p>
+**Languages**
 
-<hr/>
+![C](https://img.shields.io/badge/C-0B0F0E?style=for-the-badge&logo=c&logoColor=00FF41)
+![Java](https://img.shields.io/badge/Java-0B0F0E?style=for-the-badge&logo=openjdk&logoColor=00FF41)
+![Python](https://img.shields.io/badge/Python-0B0F0E?style=for-the-badge&logo=python&logoColor=00FF41)
+![JavaScript](https://img.shields.io/badge/JavaScript-0B0F0E?style=for-the-badge&logo=javascript&logoColor=00FF41)
+![Shell](https://img.shields.io/badge/Shell-0B0F0E?style=for-the-badge&logo=gnu-bash&logoColor=00FF41)
+![Vue](https://img.shields.io/badge/Vue-0B0F0E?style=for-the-badge&logo=vuedotjs&logoColor=00FF41)
 
-<h3>🏆 Achievements</h3>
-<p>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api?username=Kernel-Hunter&show_icons=true&count_private=true" height="170"/>
-</p>
+**Security / OS / Tools**
 
-<hr/>
+![Linux](https://img.shields.io/badge/Linux-0B0F0E?style=for-the-badge&logo=linux&logoColor=00FF41)
+![Git](https://img.shields.io/badge/Git-0B0F0E?style=for-the-badge&logo=git&logoColor=00FF41)
+![Kali](https://img.shields.io/badge/Kali-0B0F0E?style=for-the-badge&logo=kalilinux&logoColor=00FF41)
+![Wireshark](https://img.shields.io/badge/Wireshark-0B0F0E?style=for-the-badge&logo=wireshark&logoColor=00FF41)
+![Burp%20Suite](https://img.shields.io/badge/Burp%20Suite-0B0F0E?style=for-the-badge&logo=burpsuite&logoColor=00FF41)
 
-<h3>🔭 Currently</h3>
-<p>
-- Kernel module experiments & sandboxing ideas<br/>
-- Building AI tooling for security automation<br/>
-- AR/VR game mechanics & LED‑synced installations
-</p>
+</div>
 
-<hr/>
+---
 
-<h3>📌 Pinned Projects</h3>
-<p>
-- <a href="https://github.com/Kernel-Hunter/kernel-experiments">kernel-experiments</a> - OS/kernel prototypes & writeups<br/>
-- <a href="https://github.com/Kernel-Hunter/security-tools">security-tools</a> - pentest automation & Kali scripts<br/>
-- <a href="https://github.com/Kernel-Hunter/led-sync">led-sync</a> - LED controller & synchronized show patterns
-</p>
+## Stats
+<div align="center">
 
-<hr/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kernel-Hunter&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kernel-Hunter&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8" alt="Top languages" />
 
-<h3>📫 Contact & Links</h3>
-<p>
-- Email: karim.masmoudi.pro@gmail.com<br/>
-- Website: <a href="https://karimmasmoudi.vercel.app/">https://karimmasmoudi.vercel.app/</a><br
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Kernel-Hunter&theme=chartreuse-dark&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+---
+
+## 📌 Featured Projects
+> (Auto-updated to real repos — no placeholders)
+
+- **kernel-experiments** — experimental kernel modules & OS prototypes
+  - https://github.com/Kernel-Hunter/kernel-experiments
+- **smart-vehicle-rental-system** — smart multi-vehicle rental web application
+  - https://github.com/Kernel-Hunter/smart-vehicle-rental-system
+- **kernel-portfolio** — personal portfolio
+  - https://github.com/Kernel-Hunter/kernel-portfolio
+- **Library-Management-System** — Java Swing + CLI library system backed by MySQL
+  - https://github.com/Kernel-Hunter/Library-Management-System
+
+---
+
+## Contact
+- Email: **karim.masmoudi.pro@gmail.com**
+- Website: https://karimmasmoudi.vercel.app/
+
+---
+
+<details>
+<summary><b>“Hacker style” extras</b></summary>
+
+- Animated banner: `assets/matrix.gif` (stored in this repo)
+- Neon/terminal look: `chartreuse-dark` theme across widgets
+
+</details>
