@@ -8,15 +8,6 @@
 
 </div>
 
-<div align="center">
-
-<!-- Matrix rain + scanline (local assets). If an asset is missing, GitHub will show a broken image until you add it. -->
-<img src="https://github.com/Kernel-Hunter/Kernel-Hunter/blob/main/assets/matrix-rain.gif?raw=1" width="760" alt="Matrix rain" />
-<br/>
-<img src="https://github.com/Kernel-Hunter/Kernel-Hunter/blob/main/assets/scanlines.gif?raw=1" width="760" alt="Terminal scanlines" />
-
-</div>
-
 ---
 
 <div align="center">
@@ -65,8 +56,8 @@ I enjoy **low-level systems**, **kernel experimentation**, and building **securi
 
 ## Stats
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kernel-Hunter&show_icons=true&theme=chartreuse-dark&hide_border=true"  />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kernel-Hunter&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8"  />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kernel-Hunter&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kernel-Hunter&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8" alt="Top languages" />
 
 <br/>
 
@@ -113,22 +104,5 @@ I enjoy **low-level systems**, **kernel experimentation**, and building **securi
 
 **Email:** karim.masmoudi.pro@gmail.com  
 **Website:** https://karimmasmoudi.vercel.app/
-
-</div>
-
----
-
-<div align="center">
-
-<details>
-<summary><b>“Hacker style” extras</b></summary>
-
-Local animated assets used:
-- `assets/matrix-rain.gif`
-- `assets/scanlines.gif`
-
-If you want, I can also add a terminal-style "whoami" block + a snake contributions animation.
-
-</details>
 
 </div>
