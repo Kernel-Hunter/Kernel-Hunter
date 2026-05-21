@@ -56,12 +56,13 @@ I enjoy **low-level systems**, **kernel experimentation**, and building **securi
 
 ## Stats
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kernel-Hunter&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kernel-Hunter&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8" alt="Top languages" />
+<!-- Some stat-card providers wrap images in links with visible labels in certain clients.
+     Using pure Markdown image syntax avoids the extra linked label text. -->
 
-<br/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kernel-Hunter&show_icons=true&theme=chartreuse-dark&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kernel-Hunter&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8)
 
-<img src="https://streak-stats.demolab.com?user=Kernel-Hunter&theme=chartreuse-dark&hide_border=true" alt="GitHub streak" />
+![GitHub streak](https://streak-stats.demolab.com?user=Kernel-Hunter&theme=chartreuse-dark&hide_border=true)
 
 </div>
 
