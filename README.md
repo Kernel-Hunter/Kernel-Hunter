@@ -18,10 +18,10 @@ I’m **Karim Masmoudi (21)** a software engineering & AI enthusiast from **Tuni
 I enjoy **low-level systems**, **kernel experimentation**, and building **security automation**.
 
 **Focus:**
-- Cybersecurity: pentesting, security analysis, threat modeling
-- Linux & kernel: modules, memory, isolation/sandboxing
-- Automation: Python tooling, scripting, CI helpers
-- Projects: embedded/hardware tinkering + creative builds
+ Cybersecurity: pentesting, security analysis, threat modeling
+ Linux & kernel: modules, memory, isolation/sandboxing
+ Automation: Python tooling, scripting, CI helpers
+ Projects: embedded/hardware tinkering + creative builds
 
 </div>
 
