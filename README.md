@@ -14,7 +14,7 @@
 
 ## About
 
-I’m **Karim Masmoudi (21)** — a software engineering & AI enthusiast from **Tunisia**.
+I’m **Karim Masmoudi (21)** a software engineering & AI enthusiast from **Tunisia**.
 I enjoy **low-level systems**, **kernel experimentation**, and building **security automation**.
 
 **Focus:**
