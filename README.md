@@ -17,6 +17,8 @@
 I’m **Karim Masmoudi (21)** a software engineering & AI enthusiast from **Tunisia**.
 I enjoy **low-level systems**, **kernel experimentation**, and building **security automation**.
 
+Portfolio: [karimmasmoudi.vercel.app](https://karimmasmoudi.vercel.app/), a web operating system with my projects, services and clients.
+
 **Focus:**
 - Cybersecurity: pentesting, security analysis, threat modeling
 - Linux & kernel: modules, memory, isolation/sandboxing
