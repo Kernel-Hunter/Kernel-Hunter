@@ -78,6 +78,16 @@ Portfolio: [karimmasmoudi.vercel.app](https://karimmasmoudi.vercel.app/), a web 
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/Kernel-Hunter/boost"><b>Boost</b></a><br/>
+      <sub>Free macOS menu bar app for memory and disk</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Kernel-Hunter/mudroom"><b>Mudroom</b></a><br/>
+      <sub>Run coding agents in a Linux micro-VM and review the changes</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/Kernel-Hunter/kernel-experiments"><b>kernel-experiments</b></a><br/>
       <sub>Experimental kernel modules & OS prototypes</sub>
     </td>
@@ -97,6 +107,8 @@ Portfolio: [karimmasmoudi.vercel.app](https://karimmasmoudi.vercel.app/), a web 
     </td>
   </tr>
 </table>
+
+Everything else I have built: [karimmasmoudi.vercel.app/projects](https://karimmasmoudi.vercel.app/projects/)
 
 </div>
 
