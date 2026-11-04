@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="36" viewBox="0 0 880 36" fill="none" role="img" aria-label="Activity">
-<defs><linearGradient id="l" x1="118.4" y1="0" x2="880" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#FFFFFF" stop-opacity="0.145"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient></defs>
-<text x="2" y="22" font-family="'JetBrains Mono', 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" font-weight="600" fill="#7C8CFF" letter-spacing="2">05</text>
-<text x="31.8" y="22" font-family="'JetBrains Mono', 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" font-weight="600" fill="#A1A1AA" letter-spacing="2.2">ACTIVITY</text>
-<rect x="118.4" y="18" width="761.6" height="1" fill="url(#l)"/>
-</svg>

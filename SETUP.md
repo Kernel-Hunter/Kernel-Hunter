@@ -1,37 +1,29 @@
 # Profile README
 
-Copy this folder into the `Kernel-Hunter/Kernel-Hunter` repository (the one
-GitHub shows on your profile).
+Lives in the `Kernel-Hunter/Kernel-Hunter` repository, the one GitHub shows on the profile page.
 
-## Files
+## How it works
 
-| Path | What it is |
-| --- | --- |
-| `README.md` | The profile page. Every image has a dark and a light version. |
-| `assets/dark/`, `assets/light/` | Generated SVGs. Do not edit by hand. |
-| `scripts/build.py` | Draws every SVG. All text, links, projects and colors live at the top. |
-| `scripts/data.json` | Last snapshot of your GitHub numbers, used when offline. |
-| `scripts/preview.py` | Renders README.md through GitHub's Markdown API into `preview.html`. |
-| `.github/workflows/refresh.yml` | Rebuilds the SVGs every night so stars, releases and the heatmap stay current. |
+- `scripts/build.py` holds all the text (name, about, focus areas, stack, credentials, links)
+  and draws every SVG in a dark and a light version. It also writes `README.md`.
+- Live numbers (contributions, stars, releases, repositories) come from the GitHub API and are
+  cached in `scripts/data.json`.
+- `.github/workflows/refresh.yml` reruns the script every night, so the numbers and the
+  contribution grid stay current with no manual work.
+- Nothing names a specific project. Pin the repositories you want to show on your profile and
+  GitHub lists them right under the README.
 
-## Commands
+## Editing
 
 ```bash
-python3 scripts/build.py            # fetch fresh data and redraw
+python3 scripts/build.py            # fetch fresh numbers and redraw everything
 python3 scripts/build.py --offline  # redraw from data.json
-python3 scripts/preview.py && python3 -m http.server 8000   # open /preview.html
+python3 scripts/preview.py && python3 -m http.server 8000
+# open http://localhost:8000/preview-dark.html (or preview-light.html)
 ```
 
-## After pushing
+Edit the content block at the top of `scripts/build.py`, not the SVGs or README.md: both are regenerated.
 
-Settings → Actions → General → Workflow permissions → Read and write, so the
-nightly job can commit the refreshed SVGs.
+## Old version
 
-## Notes
-
-- The "Shipping …" chip in the header and the "Now" row pick the featured
-  project with the newest release, so they update on their own.
-- To change the featured projects, edit `PROJECTS` in `scripts/build.py`
-  and the card links in `README.md`.
-- SVGs use system fonts (SF Pro on Mac, Segoe UI on Windows). GitHub blocks
-  web fonts inside images.
+The README from before the redesign is on the `backup/readme-2026-11-04` branch.
