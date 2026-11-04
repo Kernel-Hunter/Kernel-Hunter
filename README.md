@@ -1,124 +1,36 @@
 <div align="center">
-
-# Karim Masmoudi · **Kernel‑Hunter**
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00FF41&center=true&vCenter=true&width=520&lines=Karim+Masmoudi+%7C+Kernel-Hunter;Ethical+Hacker+%E2%80%A2+Kernel+Explorer;Security+Automation+%E2%80%A2+Low-level+Systems" alt="Typing SVG" />
-</a>
-
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/hero.svg"><img src="assets/light/hero.svg" width="100%" alt="Karim Masmoudi. Software engineer building native Mac apps, developer tools and sandboxes for AI agents."></picture>
+<br><br>
+<a href="https://karimmasmoudi.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/link-portfolio.svg"><img src="assets/light/link-portfolio.svg" height="40" alt="Portfolio"></picture></a>&nbsp;<a href="https://www.linkedin.com/in/karim-masmoudi-224816291/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/link-linkedin.svg"><img src="assets/light/link-linkedin.svg" height="40" alt="LinkedIn"></picture></a>&nbsp;<a href="https://x.com/Karim__Masmoudi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/link-x.svg"><img src="assets/light/link-x.svg" height="40" alt="X"></picture></a>&nbsp;<a href="mailto:karim.masmoudi.pro@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/link-email.svg"><img src="assets/light/link-email.svg" height="40" alt="Email"></picture></a>&nbsp;
 </div>
 
----
+<br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/section-about.svg"><img src="assets/light/section-about.svg" width="100%" alt="About"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/about.svg"><img src="assets/light/about.svg" width="100%" alt="I'm a third-year software engineering student who likes software that runs close to the machine: native Mac apps, Linux kernel experiments, and local-first tools that keep your data on your computer."></picture>
 
-<div align="center">
+<br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/section-work.svg"><img src="assets/light/section-work.svg" width="100%" alt="Selected work"></picture>
+<p>
+<a href="https://github.com/Kernel-Hunter/boost"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/card-boost.svg"><img src="assets/light/card-boost.svg" width="49%" alt="Boost: Mac menu-bar app for memory and disk"></picture></a>
+<a href="https://github.com/Kernel-Hunter/mudroom"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/card-mudroom.svg"><img src="assets/light/card-mudroom.svg" width="49%" alt="Mudroom: run coding agents in a local VM and review their changes like a pull request"></picture></a>
+</p>
+<p>
+<a href="https://github.com/Kernel-Hunter/kandle"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/card-kandle.svg"><img src="assets/light/card-kandle.svg" width="49%" alt="Kandle: open-source charts with an MCP server your AI agent can drive"></picture></a>
+<a href="https://github.com/Kernel-Hunter/narrata"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/card-narrata.svg"><img src="assets/light/card-narrata.svg" width="49%" alt="Narrata: read PDFs, EPUBs and web pages aloud, with the voice running in your browser"></picture></a>
+</p>
 
-## About
+<p align="right"><sub><a href="https://github.com/Kernel-Hunter?tab=repositories&amp;type=source">All repositories →</a></sub></p>
 
-I’m **Karim Masmoudi (21)** a software engineering & AI enthusiast from **Tunisia**.
-I enjoy **low-level systems**, **kernel experimentation**, and building **security automation**.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/section-stack.svg"><img src="assets/light/section-stack.svg" width="100%" alt="Stack"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg"><img src="assets/light/stack.svg" width="100%" alt="Languages: Swift, TypeScript, Python, JavaScript, C, Java, Bash, PowerShell, HTML, CSS. Web and apps: SwiftUI, React, Next.js, Vue, Vuetify, Vite, Node.js. AI and data: machine learning, ONNX, OpenCV, MCP, Claude Code, MySQL. Security: Linux kernel, Kali Linux, Burp Suite, Wireshark, ethical hacking. Embedded: ESP32, Arduino, Raspberry Pi, IoT. Platforms: macOS, Windows, Linux, Debian, Chrome extensions. Tools: Git, GitHub Actions, Xcode, Homebrew, Vercel, Unity."></picture>
 
-Portfolio: [karimmasmoudi.vercel.app](https://karimmasmoudi.vercel.app/), a web operating system with my projects, services and clients.
+<br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/section-credentials.svg"><img src="assets/light/section-credentials.svg" width="100%" alt="Education and credentials"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/credentials.svg"><img src="assets/light/credentials.svg" width="100%" alt="Engineering program at MedTech, South Mediterranean University. Certificates from Amazon, Duke University, Michigan State University and Mind Luster. Arabic native, English fluent (IELTS 7.5), French intermediate. Researcher at Black Hat MEA since 2022."></picture>
 
-**Focus:**
-- Cybersecurity: pentesting, security analysis, threat modeling
-- Linux & kernel: modules, memory, isolation/sandboxing
-- Automation: Python tooling, scripting, CI helpers
-- Projects: embedded/hardware tinkering + creative builds
+<br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/section-activity.svg"><img src="assets/light/section-activity.svg" width="100%" alt="Activity"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/activity.svg"><img src="assets/light/activity.svg" width="100%" alt="Contribution activity over the past year, refreshed daily"></picture>
 
-</div>
-
----
-
-<div align="center">
-
-## Tech Stack
-
-**Languages**
-
-![C](https://img.shields.io/badge/C-0B0F0E?style=for-the-badge&logo=c&logoColor=00FF41)
-![Java](https://img.shields.io/badge/Java-0B0F0E?style=for-the-badge&logo=openjdk&logoColor=00FF41)
-![Python](https://img.shields.io/badge/Python-0B0F0E?style=for-the-badge&logo=python&logoColor=00FF41)
-![JavaScript](https://img.shields.io/badge/JavaScript-0B0F0E?style=for-the-badge&logo=javascript&logoColor=00FF41)
-![Shell](https://img.shields.io/badge/Shell-0B0F0E?style=for-the-badge&logo=gnu-bash&logoColor=00FF41)
-![Vue](https://img.shields.io/badge/Vue-0B0F0E?style=for-the-badge&logo=vuedotjs&logoColor=00FF41)
-
-**Security / OS / Tools**
-
-![Linux](https://img.shields.io/badge/Linux-0B0F0E?style=for-the-badge&logo=linux&logoColor=00FF41)
-![Git](https://img.shields.io/badge/Git-0B0F0E?style=for-the-badge&logo=git&logoColor=00FF41)
-![Kali](https://img.shields.io/badge/Kali-0B0F0E?style=for-the-badge&logo=kalilinux&logoColor=00FF41)
-![Wireshark](https://img.shields.io/badge/Wireshark-0B0F0E?style=for-the-badge&logo=wireshark&logoColor=00FF41)
-![Burp%20Suite](https://img.shields.io/badge/Burp%20Suite-0B0F0E?style=for-the-badge&logo=burpsuite&logoColor=00FF41)
-
-</div>
-
----
-
-<div align="center">
-
-## Stats
-
-<!-- Guaranteed no visible labels: keep alt text empty -->
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kernel-Hunter&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kernel-Hunter&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8" alt="" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Kernel-Hunter&theme=chartreuse-dark&hide_border=true" alt="" />
-
-</div>
-
----
-
-<div align="center">
-
-## 📌 Featured Projects
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Kernel-Hunter/boost"><b>Boost</b></a><br/>
-      <sub>Free macOS menu bar app for memory and disk</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Kernel-Hunter/mudroom"><b>Mudroom</b></a><br/>
-      <sub>Run coding agents in a Linux micro-VM and review the changes</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Kernel-Hunter/kernel-experiments"><b>kernel-experiments</b></a><br/>
-      <sub>Experimental kernel modules & OS prototypes</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Kernel-Hunter/smart-vehicle-rental-system"><b>smart-vehicle-rental-system</b></a><br/>
-      <sub>Smart multi-vehicle rental web application</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Kernel-Hunter/Task-Management-Application"><b>Task-Management-Application</b></a><br/>
-      <sub>Stacks/Queues task manager with undo + stats</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Kernel-Hunter/Library-Management-System"><b>Library-Management-System</b></a><br/>
-      <sub>Java Swing + CLI + MySQL library system</sub>
-    </td>
-  </tr>
-</table>
-
-Everything else I have built: [karimmasmoudi.vercel.app/projects](https://karimmasmoudi.vercel.app/projects/)
-
-</div>
-
----
-
-<div align="center">
-
-## Contact
-
-**Email:** karim.masmoudi.pro@gmail.com  
-**Website:** https://karimmasmoudi.vercel.app/
-
-</div>
+<br>
+<div align="center"><sub>Reach me at <a href="mailto:karim.masmoudi.pro@gmail.com">karim.masmoudi.pro@gmail.com</a> &nbsp;·&nbsp; <a href="https://karimmasmoudi.vercel.app">karimmasmoudi.vercel.app</a></sub></div>

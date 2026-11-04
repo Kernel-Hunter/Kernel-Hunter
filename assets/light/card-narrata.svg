@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="432" height="212" viewBox="0 0 432 212" fill="none" role="img" aria-label="Narrata: Reads PDFs, EPUBs and web pages aloud with word highlighting. The voice runs in your browser.">
+<defs>
+  <clipPath id="c"><rect width="432" height="212" rx="16"/></clipPath>
+  <radialGradient id="g" cx="432" cy="0" r="280" gradientUnits="userSpaceOnUse"><stop stop-color="#D02C78" stop-opacity="0.12"/><stop offset="1" stop-color="#D02C78" stop-opacity="0"/></radialGradient>
+  <linearGradient id="top" x1="0" y1="0" x2="432" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#D02C78" stop-opacity="0"/><stop offset=".72" stop-color="#D02C78" stop-opacity=".85"/><stop offset="1" stop-color="#D02C78" stop-opacity="0"/></linearGradient>
+</defs>
+<g clip-path="url(#c)">
+  <rect x=".5" y=".5" width="431" height="211" rx="16" fill="#FBFBFC" stroke="#0A0A0C" stroke-opacity="0.09"/>
+  <rect width="432" height="212" fill="url(#g)"/>
+  <rect x="60" width="352" height="1.2" fill="url(#top)"/>
+</g>
+<rect x="28" y="28" width="44" height="44" rx="12" fill="#D02C78" fill-opacity="0.1"/>
+<rect x="28.5" y="28.5" width="43" height="43" rx="11.5" stroke="#D02C78" stroke-opacity=".38"/>
+<g transform="translate(39.00 39.00) scale(0.9167)" color="#D02C78" stroke="#D02C78" stroke-width="1.96" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M4 10.5v3M8 7.5v9M12 4.5v15M16 8v8M20 10.5v3"/></g>
+<text x="88" y="49" font-family="Inter, 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="19" font-weight="650" fill="#0A0A0C" letter-spacing="-0.3">Narrata</text>
+<text x="88" y="67" font-family="'JetBrains Mono', 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" font-weight="400" fill="#8E8E98">kernel-hunter/narrata</text>
+<rect x="341.9" y="31.5" width="61.6" height="23" rx="11.5" fill="#F4F4F6" stroke="#0A0A0C" stroke-opacity="0.09"/>
+<text x="372.7" y="47" font-family="'JetBrains Mono', 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="500" fill="#52525B" text-anchor="middle">v0.2.0</text>
+<text x="28" y="110" font-family="Inter, 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#52525B">Reads PDFs, EPUBs and web pages aloud with word</text>
+<text x="28" y="131" font-family="Inter, 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="400" fill="#52525B">highlighting. The voice runs in your browser.</text>
+<rect x="28" y="158" width="376.0" height="1" fill="#0A0A0C" fill-opacity="0.070"/>
+<circle cx="33" cy="183" r="5" fill="#3178c6"/>
+<text x="45" y="187.5" font-family="Inter, 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#52525B">TypeScript</text>
+<g transform="translate(126.60 175.50) scale(0.6250)" color="#52525B" stroke="#52525B" stroke-width="2.72" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="m12 3.5 2.6 5.3 5.8.8-4.2 4.1 1 5.8L12 16.8l-5.2 2.7 1-5.8-4.2-4.1 5.8-.8Z"/></g>
+<text x="146.6" y="187.5" font-family="Inter, 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#52525B">1</text>
+<text x="404" y="187.5" font-family="Inter, 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#8E8E98" text-anchor="end">Web app  ·  Chrome extension</text>
+</svg>

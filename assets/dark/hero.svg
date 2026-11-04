@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="290" viewBox="0 0 880 290" fill="none" role="img" aria-label="Karim Masmoudi. Software engineer. I build native Mac apps, developer tools and sandboxes for AI agents."><style>.o{transform-origin:728px 145px;animation:spin linear infinite}@keyframes spin{to{transform:rotate(360deg)}}.p{transform-origin:64px 54px;animation:pulse 2.4s ease-out infinite}@keyframes pulse{0%{transform:scale(.6);opacity:1}100%{transform:scale(1.9);opacity:0}}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<defs>
+  <clipPath id="c"><rect width="880" height="290" rx="18"/></clipPath>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#FFFFFF" fill-opacity="0.07"/></pattern>
+  <radialGradient id="fade" cx="728" cy="145" r="440" gradientUnits="userSpaceOnUse"><stop stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+  <mask id="m"><rect width="880" height="290" fill="url(#fade)"/></mask>
+  <radialGradient id="g1" cx="708" cy="30" r="340" gradientUnits="userSpaceOnUse"><stop stop-color="#7C8CFF" stop-opacity="0.3"/><stop offset="1" stop-color="#7C8CFF" stop-opacity="0"/></radialGradient>
+  <radialGradient id="g2" cx="880" cy="290" r="300" gradientUnits="userSpaceOnUse"><stop stop-color="#5EEAD4" stop-opacity="0.18"/><stop offset="1" stop-color="#5EEAD4" stop-opacity="0"/></radialGradient>
+  <linearGradient id="tile" x1="692" y1="109" x2="764" y2="181" gradientUnits="userSpaceOnUse"><stop stop-color="#7C8CFF"/><stop offset="1" stop-color="#5EEAD4"/></linearGradient>
+  <linearGradient id="top" x1="0" y1="0" x2="880" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#7C8CFF" stop-opacity="0"/><stop offset=".6" stop-color="#7C8CFF" stop-opacity=".9"/><stop offset="1" stop-color="#5EEAD4" stop-opacity="0"/></linearGradient>
+</defs>
+<g clip-path="url(#c)">
+  <rect width="880" height="290" fill="#0A0A0C"/>
+  <rect width="880" height="290" fill="url(#dots)" mask="url(#m)"/>
+  <rect width="880" height="290" fill="url(#g1)"/>
+  <rect width="880" height="290" fill="url(#g2)"/>
+  <rect x="160" width="680" height="1.2" fill="url(#top)"/>
+  <circle cx="728" cy="145" r="58" stroke="#FFFFFF" stroke-opacity="0.125"/>
+  <circle cx="728" cy="145" r="92" stroke="#FFFFFF" stroke-opacity="0.105" stroke-dasharray="2 5"/>
+  <circle cx="728" cy="145" r="124" stroke="#FFFFFF" stroke-opacity="0.085"/>
+  <g class="o" style="animation-duration:22s;animation-delay:-1.83s"><circle cx="786" cy="145" r="9" fill="#FFA552" fill-opacity=".18"/><circle cx="786" cy="145" r="4" fill="#FFA552"/></g><g class="o" style="animation-duration:34s;animation-delay:-13.22s"><circle cx="820" cy="145" r="9" fill="#A98BFF" fill-opacity=".18"/><circle cx="820" cy="145" r="4" fill="#A98BFF"/></g><g class="o" style="animation-duration:34s;animation-delay:-30.22s"><circle cx="820" cy="145" r="9" fill="#4CC3FF" fill-opacity=".18"/><circle cx="820" cy="145" r="4" fill="#4CC3FF"/></g><g class="o" style="animation-duration:48s;animation-delay:-30.67s"><circle cx="852" cy="145" r="9" fill="#FF7AB8" fill-opacity=".18"/><circle cx="852" cy="145" r="4" fill="#FF7AB8"/></g>
+  <rect x="692" y="109" width="72" height="72" rx="20" fill="url(#tile)"/>
+  <rect x="692.5" y="109.5" width="71" height="71" rx="19.5" stroke="#fff" stroke-opacity=".35"/>
+  <text x="728" y="154" font-family="Inter, 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="25" font-weight="700" fill="#FFFFFF" letter-spacing="-0.5" text-anchor="middle">KM</text>
+
+  <rect x="48.5" y="40.5" width="220" height="27" rx="13.5" fill="#16161C" stroke="#FFFFFF" stroke-opacity="0.085"/>
+  <circle class="p" cx="64" cy="54" r="6" fill="#5EEAD4" fill-opacity=".35"/>
+  <circle cx="64" cy="54" r="3" fill="#5EEAD4"/>
+  <text x="78" y="58" font-family="'JetBrains Mono', 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="500" fill="#A1A1AA" letter-spacing="1.2">SHIPPING KANDLE v0.11.0</text>
+
+  <text x="45" y="134" font-family="Inter, 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#F5F5F7" letter-spacing="-1.8">Karim Masmoudi</text>
+  <text x="48" y="174" font-family="Inter, 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="18" font-weight="400" fill="#A1A1AA" letter-spacing="-0.1">Software engineer. I build native Mac apps,</text>
+  <text x="48" y="199" font-family="Inter, 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="18" font-weight="400" fill="#A1A1AA" letter-spacing="-0.1">developer tools and sandboxes for AI agents.</text>
+  <rect x="48" y="226" width="28" height="1.5" rx=".75" fill="#7C8CFF"/>
+  <text x="48" y="252" font-family="'JetBrains Mono', 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="500" fill="#6B6B76" letter-spacing="1.6">TUNISIA  ·  SMU MEDTECH  ·  SYSTEMS · SECURITY · AI</text>
+</g>
+<rect x=".5" y=".5" width="879" height="289" rx="17.5" stroke="#FFFFFF" stroke-opacity="0.085"/>
+</svg>
